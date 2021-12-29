@@ -1,1 +1,0 @@
-/media/storage/storage/code/rust/project/Xlaunch/target/debug/Xlaunch: /media/storage/storage/code/rust/project/Xlaunch/src/launch.sh /media/storage/storage/code/rust/project/Xlaunch/src/launch_wine.sh /media/storage/storage/code/rust/project/Xlaunch/src/main.rs
